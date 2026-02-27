@@ -2,7 +2,7 @@
 
 Software Engineer specializing in software integration and microservices.
 
-MSc in Artificial Intelligence (UAI) | Computer Science Engineer (UDP)
+MSc in Artificial Intelligence candidate (UAI) | Computer Science Engineer (UDP)
 
 ## Certifications
 
