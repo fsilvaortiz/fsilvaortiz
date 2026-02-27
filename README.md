@@ -2,10 +2,27 @@
 
 Software Engineer specializing in software integration and microservices.
 
+MSc in Artificial Intelligence (UAI) | Computer Science Engineer (UDP)
+
+## Certifications
+
+| Certification | Issuer |
+|---------------|--------|
+| Azure Solutions Architect Expert | Microsoft |
+| Azure Security Engineer Associate | Microsoft |
+| Azure Administrator Associate | Microsoft |
+| Azure AI Fundamentals | Microsoft |
+| Azure Fundamentals | Microsoft |
+| Oracle Certified Professional, Java SE 8 | Oracle |
+| Oracle Certified Associate, Java SE 8 | Oracle |
+| Oracle SOA Suite 12c Implementation Specialist | Oracle |
+| GitHub Foundations | GitHub |
+| Certified Ethical Hacker v10 | EC-Council |
+
 ## Tech Stack
 
 - **Languages**: Java
-- **Architecture**: Microservices, Event-Driven, REST APIs
+- **Architecture**: Microservices, Event-Driven, REST APIs, SOA
 - **Cloud**: Azure
 - **Messaging**: Azure Service Bus, Kafka
 - **Runtime**: Spring Boot, Node.js
