@@ -4,7 +4,7 @@ Software Engineer specializing in software integration and microservices.
 
 ## Tech Stack
 
-- **Languages**: Java, TypeScript, Python
+- **Languages**: Java
 - **Architecture**: Microservices, Event-Driven, REST APIs
 - **Cloud**: Azure
 - **Messaging**: Azure Service Bus, Kafka
